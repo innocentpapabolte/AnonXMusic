@@ -31,7 +31,8 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text=_["S_B_7"], url=config.UPSTREAM_REPO),
+            InlineKeyboardButton(text=_["S_B_7"], url=f"https://telegra.ph/file/141d5f105f321012aa839.mp4",
+            ),
         ],
     ]
     return buttons
