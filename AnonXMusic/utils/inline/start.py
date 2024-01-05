@@ -26,8 +26,8 @@ def private_panel(_):
         ],
         [InlineKeyboardButton(text=_[◄𝆺𝅥اـ꯭ـ꯭🥀𝑯ҽʅᴘ✦ᨶꪮꪑмαиĐ᭄. ⃟⃟⃝⃪⃟⚚‎], callback_data="settings_back_helper")],
         [
-            InlineKeyboardButton(text=_[◄𝆺𝅥اـ꯭ـ꯭🥀⭕ғͦғᷱɪᷡᴄͤ͢ɪᷢᴀʟ᭄. ⃟⃟⃝⃪⃟⚚‎"], user_id=config.OWNER_ID),
-            InlineKeyboardButton(text=_["◄𝆺𝅥اـ꯭ـ꯭🥀𝑺υᴘᴘꪮят✦₲ꪹᴏɾρ᭄. ⃟⃟⃝⃪⃟⚚‎], url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text=_[◄𝆺𝅥اـ꯭ـ꯭🥀⭕ғͦғᷱɪᷡᴄͤ͢ɪᷢᴀʟ᭄. ⃟⃟⃝⃪⃟⚚‎], user_id=config.OWNER_ID),
+            InlineKeyboardButton(text=_[◄𝆺𝅥اـ꯭ـ꯭🥀𝑺υᴘᴘꪮят✦₲ꪹᴏɾρ᭄. ⃟⃟⃝⃪⃟⚚‎], url=config.SUPPORT_CHAT),
         ],
         [
             InlineKeyboardButton(text=_[◄𝆺𝅥اـ꯭ـ꯭🥀𝑺υᴘᴘꪮят✦₵нαɴɴҽʅ᭄. ⃟⃟⃝⃪⃟⚚‎], url=config.SUPPORT_CHANNEL),
